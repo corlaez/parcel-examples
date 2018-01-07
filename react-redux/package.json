@@ -1,0 +1,25 @@
+{
+  "name": "react-simple",
+  "version": "1.0.0",
+  "description": "React boilerplate with hot module replacement made simple thanks to parceljs",
+  "engines": {
+    "npm": ">=6"
+  },
+  "author": "Armando Cordova @lrn2prgrm",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "parcel-bundler": "^1.4.1"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2"
+  },
+  "scripts": {
+    "start": "parcel src/index.html"
+  }
+}
