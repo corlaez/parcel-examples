@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "react-redux/package.json",
+        "react-storybook/package.json",
+        "react/package.json"
+      ]
+    }
+  }
+}
