@@ -13,9 +13,9 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "parcel-bundler": "^1.4.1",
-    "@storybook/react": "^3.3.3",
-    "@storybook/addon-actions": "^3.3.3",
-    "@storybook/addon-links": "^3.3.3"
+    "@storybook/react": "^5.1.11",
+    "@storybook/addon-actions": "^5.1.11",
+    "@storybook/addon-links": "^5.1.11"
   },
   "dependencies": {
     "react": "^16.2.0",
