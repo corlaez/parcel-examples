@@ -1,5 +1,7 @@
 # Parcel examples
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/corlaez/parcel-examples.svg)](https://greenkeeper.io/)
+
 A series of parcel examples with rationale on how to build them.
 
 All of them feature hot module replacement thanks to Parcel.
